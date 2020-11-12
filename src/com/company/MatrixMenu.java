@@ -63,7 +63,7 @@ public class MatrixMenu {
                         }
                         System.out.println();
                     }
-                    break;
+                    continue;
                 case 4:
                     exit = true;
                     break;
